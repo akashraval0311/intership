@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 20/12/2021
 
 *  learn working of company.
@@ -16,3 +17,7 @@ WATCH VEDIO ON QT
 23/12/2021
 WATCH vedio on QT
 
+=======
+# intership
+aakash
+>>>>>>> d4a1e6341c386f061ca72b154e388bbe479943f9
